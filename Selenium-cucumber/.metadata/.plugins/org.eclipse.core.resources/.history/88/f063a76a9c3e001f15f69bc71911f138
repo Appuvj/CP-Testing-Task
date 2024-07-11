@@ -1,0 +1,22 @@
+package com.TestApp;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+
+public class ExtentReport {
+	
+	ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter("extent.html");
+	
+	ExtentReports extent = new ExtentReports();
+	extent.attachReporter(htmlReporter);
+	
+	ExtentTest test = extent.createTest("Google search Test1", "this is a test to validate Google search functionality");
+	
+	String path = System.getProperty("user.dir")+"\\reports\\index.html";
+	
+	test.log(Status.INFO,"Starting Test Case");
+	driver = new FirefoxDriver();
+	
+
+}

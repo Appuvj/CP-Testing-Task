@@ -1,0 +1,23 @@
+package com.APITesting;
+
+
+import static io.restassured.RestAssured.*;
+
+import org.testng.annotations.Test;
+
+public class JSONSchemaValidator {
+	
+	@Test
+	public void testGet1() {
+		
+		baseURI="https://reqres.in/api";
+		
+		given().get("/users?page=2").
+		
+		then().
+		
+		assertThat().body(matchesJsonSchemaInClasspath("schema.json")).ststusCode(200);
+		
+	}
+
+}

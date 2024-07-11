@@ -1,0 +1,151 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719902174561,1329,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1038,0,23
+1719902174561,1038,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1038,0,23
+1719902175600,290,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,99,0,77
+1719902174662,1352,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1052,0,47
+1719902174662,1052,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1052,0,47
+1719902175715,299,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,95,0,72
+1719902174760,1671,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1020,0,22
+1719902174760,1020,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1020,0,22
+1719902175781,650,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,207,0,156
+1719902174860,1633,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,947,0,30
+1719902174860,947,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,947,0,30
+1719902175808,685,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,214,0,162
+1719902175259,1274,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,988,0,29
+1719902175259,988,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,988,0,29
+1719902176248,285,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,90,0,68
+1719902175358,1347,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1046,0,59
+1719902175358,1046,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1046,0,59
+1719902176405,300,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,106,0,83
+1719902174959,1773,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1106,0,45
+1719902174959,1106,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1106,0,45
+1719902176066,666,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,213,0,161
+1719902175059,1748,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1029,0,22
+1719902175059,1029,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1029,0,22
+1719902176088,719,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,213,0,161
+1719902175158,1712,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1016,0,45
+1719902175158,1016,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1016,0,45
+1719902176175,695,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,221,0,168
+1719902175891,1091,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,921,0,0
+1719902175891,921,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,921,0,0
+1719902176812,170,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,23,0,0
+1719902174460,2583,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,166917,242,10,10,https://mcc.edu.in/about-us/,1954,0,32
+1719902174460,1954,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,283,121,10,10,http://mcc.edu.in/about-us/,1954,0,32
+1719902176415,628,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,166634,121,10,10,https://mcc.edu.in/about-us/,192,0,147
+1719902176014,1087,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,919,0,0
+1719902176014,919,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,919,0,0
+1719902176933,168,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,22,0,0
+1719902176533,1206,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1040,0,0
+1719902176533,1040,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1040,0,0
+1719902177574,165,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,23,0,0
+1719902176432,1464,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1056,0,0
+1719902176432,1056,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1056,0,0
+1719902177488,408,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,62,0,0
+1719902176494,1412,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,979,0,0
+1719902176494,979,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,979,0,0
+1719902177473,433,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,61,0,0
+1719902176705,1215,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1043,0,0
+1719902176705,1043,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1043,0,0
+1719902177748,172,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,23,0,0
+1719902176808,1381,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,974,0,0
+1719902176808,974,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,974,0,0
+1719902177783,406,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,52,0,0
+1719902176983,1242,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1096,0,0
+1719902176983,1096,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1096,0,0
+1719902178079,146,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,22,0,0
+1719902176870,1373,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,962,0,0
+1719902176870,962,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,962,0,0
+1719902177832,411,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,53,0,0
+1719902176733,1528,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1129,0,0
+1719902176733,1129,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1129,0,0
+1719902177862,399,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,51,0,0
+1719902177101,1182,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1033,0,0
+1719902177101,1033,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1033,0,0
+1719902178134,149,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,23,0,0
+1719902177044,1348,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,995,0,0
+1719902177044,995,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,995,0,0
+1719902178039,353,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,45,0,0
+1719902177740,1078,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,930,0,0
+1719902177740,930,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,930,0,0
+1719902178669,149,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,23,0,0
+1719902177920,1179,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1028,0,0
+1719902177920,1028,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1028,0,0
+1719902178948,151,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,23,0,0
+1719902177896,1265,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,912,0,0
+1719902177896,912,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,912,0,0
+1719902178808,353,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,51,0,0
+1719902177905,1357,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,937,0,0
+1719902177905,937,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,937,0,0
+1719902178842,420,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,54,0,0
+1719902178226,1296,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1071,0,0
+1719902178226,1071,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1071,0,0
+1719902179298,224,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,22,0,0
+1719902178284,1270,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1109,0,0
+1719902178284,1109,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1109,0,0
+1719902179393,161,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,31,0,0
+1719902178189,1414,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,997,0,0
+1719902178189,997,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,997,0,0
+1719902179186,417,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,53,0,0
+1719902178394,1293,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,973,0,0
+1719902178394,973,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,973,0,0
+1719902179367,320,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,57,0,0
+1719902178242,1519,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1141,0,0
+1719902178242,1141,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1141,0,0
+1719902179384,377,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,63,0,0
+1719902178261,1533,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1187,0,0
+1719902178261,1187,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1187,0,0
+1719902179448,346,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,52,0,0
+1719902178819,1215,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1070,0,0
+1719902178819,1070,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1070,0,0
+1719902179889,145,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,22,0,0
+1719902179100,1143,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,999,0,0
+1719902179100,999,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,999,0,0
+1719902180099,144,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,23,0,0
+1719902179263,1481,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,1051,0,0
+1719902179263,1051,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,1051,0,0
+1719902180315,429,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,53,0,0
+1719902179522,1256,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,166915,242,10,10,https://mcc.edu.in/about-us/,926,0,0
+1719902179522,926,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,282,121,10,10,http://mcc.edu.in/about-us/,926,0,0
+1719902180449,329,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,166633,121,10,10,https://mcc.edu.in/about-us/,25,0,0
+1719902179162,1690,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,166915,242,9,9,https://mcc.edu.in/about-us/,907,0,0
+1719902179162,907,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,282,121,9,9,http://mcc.edu.in/about-us/,907,0,0
+1719902180069,783,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,166633,121,9,9,https://mcc.edu.in/about-us/,51,0,0
+1719902179688,1345,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,166915,242,9,9,https://mcc.edu.in/about-us/,1073,0,0
+1719902179688,1073,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,282,121,9,9,http://mcc.edu.in/about-us/,1073,0,0
+1719902180761,272,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,166633,121,9,9,https://mcc.edu.in/about-us/,46,0,0
+1719902179795,1239,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,166915,242,9,9,https://mcc.edu.in/about-us/,937,0,0
+1719902179795,937,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,282,121,9,9,http://mcc.edu.in/about-us/,937,0,0
+1719902180732,302,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,166633,121,9,9,https://mcc.edu.in/about-us/,51,0,0
+1719902179761,1303,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,166915,242,9,9,https://mcc.edu.in/about-us/,978,0,0
+1719902179761,978,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,282,121,9,9,http://mcc.edu.in/about-us/,978,0,0
+1719902180739,325,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,166633,121,9,9,https://mcc.edu.in/about-us/,66,0,0
+1719902179555,1539,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,166915,242,9,9,https://mcc.edu.in/about-us/,1409,0,0
+1719902179555,1409,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,282,121,9,9,http://mcc.edu.in/about-us/,1409,0,0
+1719902180964,130,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,166633,121,9,9,https://mcc.edu.in/about-us/,24,0,0
+1719902179604,1500,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,166915,242,8,8,https://mcc.edu.in/about-us/,1053,0,0
+1719902179604,1053,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,282,121,8,8,http://mcc.edu.in/about-us/,1053,0,0
+1719902180657,447,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,166633,121,8,8,https://mcc.edu.in/about-us/,52,0,0
+1719902180035,1086,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,166915,242,8,8,https://mcc.edu.in/about-us/,958,0,0
+1719902180035,958,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,282,121,8,8,http://mcc.edu.in/about-us/,958,0,0
+1719902180993,128,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,166633,121,8,8,https://mcc.edu.in/about-us/,22,0,0
+1719902180244,1542,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,166915,242,7,7,https://mcc.edu.in/about-us/,1411,0,0
+1719902180244,1411,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,282,121,7,7,http://mcc.edu.in/about-us/,1411,0,0
+1719902181655,131,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,166633,121,7,7,https://mcc.edu.in/about-us/,23,0,0
+1719902180745,1308,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,166915,242,6,6,https://mcc.edu.in/about-us/,945,0,0
+1719902180745,945,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,282,121,6,6,http://mcc.edu.in/about-us/,945,0,0
+1719902181690,363,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,166633,121,6,6,https://mcc.edu.in/about-us/,55,0,0
+1719902181033,1203,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,166915,242,5,5,https://mcc.edu.in/about-us/,927,0,0
+1719902181033,927,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,282,121,5,5,http://mcc.edu.in/about-us/,927,0,0
+1719902181961,275,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,166633,121,5,5,https://mcc.edu.in/about-us/,45,0,0
+1719902181035,1234,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,166915,242,4,4,https://mcc.edu.in/about-us/,926,0,0
+1719902181035,926,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,282,121,4,4,http://mcc.edu.in/about-us/,926,0,0
+1719902181961,308,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,166633,121,4,4,https://mcc.edu.in/about-us/,51,0,0
+1719902181065,1251,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,166915,242,3,3,https://mcc.edu.in/about-us/,925,0,0
+1719902181065,925,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,282,121,3,3,http://mcc.edu.in/about-us/,925,0,0
+1719902181991,325,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,166633,121,3,3,https://mcc.edu.in/about-us/,52,0,0
+1719902181105,1269,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,166915,242,2,2,https://mcc.edu.in/about-us/,905,0,0
+1719902181105,905,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,282,121,2,2,http://mcc.edu.in/about-us/,905,0,0
+1719902182011,363,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,166633,121,2,2,https://mcc.edu.in/about-us/,53,0,0
+1719902180853,1630,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,166915,242,1,1,https://mcc.edu.in/about-us/,927,0,0
+1719902180853,927,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,282,121,1,1,http://mcc.edu.in/about-us/,927,0,0
+1719902181781,702,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,166633,121,1,1,https://mcc.edu.in/about-us/,51,0,0

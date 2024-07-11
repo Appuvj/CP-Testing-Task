@@ -1,0 +1,32 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719920994279,3017,Homepage,200,OK,Thread Group 1-1,text,true,,202333,220,1,1,https://amcas.in/,607,0,314
+1719920994279,630,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,110,1,1,http://amcas.in/,607,0,314
+1719920994913,2383,Homepage-1,200,OK,Thread Group 1-1,text,true,,201870,110,1,1,https://amcas.in/,1614,0,1292
+1719920997301,673,Aboutuspage,200,OK,Thread Group 1-1,text,true,,103653,244,1,1,https://amcas.in/about-amcas/,275,0,0
+1719920997301,275,Aboutuspage-0,301,Moved Permanently,Thread Group 1-1,text,true,,486,122,1,1,http://amcas.in/about-amcas/,275,0,0
+1719920997576,398,Aboutuspage-1,200,OK,Thread Group 1-1,text,true,,103167,122,1,1,https://amcas.in/about-amcas/,315,0,0
+1719920997975,654,Academicpage,200,OK,Thread Group 1-1,text,true,,102715,256,1,1,https://amcas.in/academic-overview/,271,0,0
+1719920997975,271,Academicpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,498,128,1,1,http://amcas.in/academic-overview/,271,0,0
+1719920998246,383,Academicpage-1,200,OK,Thread Group 1-1,text,true,,102217,128,1,1,https://amcas.in/academic-overview/,303,0,0
+1719920998630,941,Admissionpage,200,OK,Thread Group 1-1,text,true,,101783,402,1,1,https://amcas.in/admission-process/,277,0,0
+1719920998630,277,Admissionpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,516,137,1,1,http://amcas.in/amcas.in/admission-process/,277,0,0
+1719920998907,293,Admissionpage-1,301,Moved Permanently,Thread Group 1-1,text,true,,390,137,1,1,https://amcas.in/amcas.in/admission-process/,293,0,0
+1719920999200,371,Admissionpage-2,200,OK,Thread Group 1-1,text,true,,100877,128,1,1,https://amcas.in/admission-process/,297,0,0
+1719920999572,669,Facultypage,200,OK,Thread Group 1-1,text,true,,128840,262,1,1,https://amcas.in/new-teaching-faculty/,285,0,0
+1719920999572,286,Facultypage-0,301,Moved Permanently,Thread Group 1-1,text,true,,504,131,1,1,http://amcas.in/new-teaching-faculty/,285,0,0
+1719920999858,383,Facultypage-1,200,OK,Thread Group 1-1,text,true,,128336,131,1,1,https://amcas.in/new-teaching-faculty/,312,0,0
+1719921000251,659,Iqacpage,200,OK,Thread Group 1-1,text,true,,102228,252,1,1,https://amcas.in/iqac/about-iqac/,281,0,0
+1719921000251,281,Iqacpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,494,126,1,1,http://amcas.in/iqac/about-iqac/,281,0,0
+1719921000532,378,Iqacpage-1,200,OK,Thread Group 1-1,text,true,,101734,126,1,1,https://amcas.in/iqac/about-iqac/,299,0,0
+1719921000912,666,Certificatecourses,200,OK,Thread Group 1-1,text,true,,99532,258,1,1,https://amcas.in/certificatecourses/,280,0,0
+1719921000912,280,Certificatecourses-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,129,1,1,http://amcas.in/certificatecourses/,280,0,0
+1719921001192,386,Certificatecourses-1,200,OK,Thread Group 1-1,text,true,,99032,129,1,1,https://amcas.in/certificatecourses/,298,0,0
+1719921001579,669,Infrastructure,200,OK,Thread Group 1-1,text,true,,110685,276,1,1,https://amcas.in/campus-life/infra-structure/,277,0,0
+1719921001579,278,Infrastructure-0,301,Moved Permanently,Thread Group 1-1,text,true,,518,138,1,1,http://amcas.in/campus-life/infra-structure/,277,0,0
+1719921001857,391,Infrastructure-1,200,OK,Thread Group 1-1,text,true,,110167,138,1,1,https://amcas.in/campus-life/infra-structure/,303,0,0
+1719921002249,649,Placement,200,OK,Thread Group 1-1,text,true,,102573,276,1,1,https://amcas.in/training-and-placement-cell/,277,0,0
+1719921002249,277,Placement-0,301,Moved Permanently,Thread Group 1-1,text,true,,518,138,1,1,http://amcas.in/training-and-placement-cell/,277,0,0
+1719921002526,372,Placement-1,200,OK,Thread Group 1-1,text,true,,102055,138,1,1,https://amcas.in/training-and-placement-cell/,298,0,0
+1719921002899,1281,Gallery,200,OK,Thread Group 1-1,text,true,,367916,236,1,1,https://amcas.in/gallery/,277,0,0
+1719921002899,277,Gallery-0,301,Moved Permanently,Thread Group 1-1,text,true,,478,118,1,1,http://amcas.in/gallery/,277,0,0
+1719921003177,1003,Gallery-1,200,OK,Thread Group 1-1,text,true,,367438,118,1,1,https://amcas.in/gallery/,329,0,0

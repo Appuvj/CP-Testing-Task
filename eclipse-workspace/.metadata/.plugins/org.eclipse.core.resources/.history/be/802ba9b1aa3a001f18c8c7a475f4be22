@@ -1,0 +1,33 @@
+package com.APITesting;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.*;  //make a static to RestAssured package
+import io.restassured.response.Response;
+
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+
+public class TestGETandPOSTRequest {
+	
+	@Test
+	public void GETRequest() {
+		
+		//1st validation by id
+		baseURI="https://reqres.in/api";
+		given().get("/unknown").then().statusCode(200).body("data[0].id",equalTo(1)).log().all();
+		
+		//2nd validation by name
+		given().get("/unknown").
+		then().statusCode(200).
+		body("data[1].name",equalTo("fuchsia rose")).
+		body("data[1].id",equalTo(2)).log().all();
+		
+		
+	}
+	
+	
+	
+
+}

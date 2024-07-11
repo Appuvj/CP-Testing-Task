@@ -1,0 +1,36 @@
+package com.TestApp;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class ReactLoginPage{
+
+	public static void main(String[] args) throws InterruptedException {
+			
+		WebDriver driver = new ChromeDriver();
+		
+		driver.get("http://localhost:3000/");
+		Thread.sleep(1000);
+		
+		driver.findElement(By.xpath("//a[normalize-space()='Signin']")).click();
+		
+		driver.findElement(By.xpath("//a[normalize-space()=\"Don't have an account? Sign Up\"]")).click();
+		
+		driver.findElement(By.xpath("//input[@name='userName']")).sendKeys("Ajith Kumar");
+
+		driver.findElement(By.xpath("//input[@name='userContact']")).sendKeys("9380410103");
+
+		driver.findElement(By.xpath("//input[@name='userId']")).sendKeys("ajku7894@gmail.com");
+
+		driver.findElement(By.xpath("//input[@name='userPass']")).sendKeys("Ajith@123");
+
+		driver.findElement(By.xpath("//button[normalize-space()='Create Account']")).click();
+
+		
+	//	driver.findElement(By.className("VfPpkd-vQzf8d")).click();
+
+	}
+
+}
